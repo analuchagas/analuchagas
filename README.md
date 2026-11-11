@@ -1,11 +1,10 @@
-## Oi, eu sou a Ana Luísa!👋
+## Ana Luísa
 
-<div align="center">
-  <a href="https://github.com/analuchagas">
-    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=analuchagas&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=analuchagas&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
+Oii, meu nome é Ana Luísa e sou estudante de Ciência da Computação na UFMA! Aqui compartilho meus projetos, experiências acadêmicas e um pouco da minha jornada no mundo da programação.💻
+
+##
+
+### Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -16,3 +15,16 @@
 </div>
 
 ##
+
+### Estatísticas
+
+<div align="center">
+  <a href="https://github.com/analuchagas">
+    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=analuchagas&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=analuchagas&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+##
+
+
