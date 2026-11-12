@@ -1,6 +1,6 @@
 ## Ana Luísa
 
-Oii, meu nome é Ana Luísa e sou estudante de Ciência da Computação na UFMA! Aqui compartilho meus projetos, experiências acadêmicas e um pouco da minha jornada no mundo da programação.💻
+Oii, meu nome é Ana Luísa e sou estudante de Ciência da Computação na UFMA. Aqui compartilho meus projetos e experiências acadêmicas.
 
 ##
 
